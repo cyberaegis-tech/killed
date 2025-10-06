@@ -109,9 +109,6 @@ function initSocialEffects() {
             // Different colors for different platforms
             const colors = {
                 github: '#333333',
-                linkedin: '#0077b5',
-                twitter: '#1da1f2',
-                telegram: '#0088cc',
                 discord: '#5865f2'
             };
             
