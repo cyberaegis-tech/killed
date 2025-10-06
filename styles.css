@@ -270,36 +270,7 @@ body {
     font-weight: 600;
 }
 
-/* Footer */
-.footer {
-    background: rgba(26, 0, 0, 0.8);
-    border-top: 2px solid var(--border-color);
-    padding: 30px 0;
-    text-align: center;
-}
-
-.footer-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 20px;
-}
-
-.footer-links {
-    display: flex;
-    gap: 20px;
-}
-
-.footer-links a {
-    color: var(--text-gray);
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-
-.footer-links a:hover {
-    color: var(--accent-red);
-}
+/* Footer removed for cleaner design */
 
 /* Particles Background */
 .particles {
@@ -356,11 +327,6 @@ body {
     .social-links {
         flex-direction: column;
         align-items: center;
-    }
-    
-    .footer-content {
-        flex-direction: column;
-        text-align: center;
     }
     
     .container {
