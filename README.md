@@ -1,2 +1,3 @@
-# killed
-repository for biography site
+# pageBio
+
+Personal biography website with modern design and interactive features.
